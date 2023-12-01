@@ -94,11 +94,4 @@ The model, having undergone rigorous training, emerges with an impressive accura
 
 Extend a heartfelt appreciation to [mention any contributors or resources] whose invaluable contributions have significantly shaped this project.
 
-## License
-
-This project operates under the [mention the license]. For detailed information, refer to the [LICENSE](LICENSE) file.
-
-Feel empowered not only to explore but also to modify and share this project. For inquiries or suggestions, [open an issue](https://github.com/salarMokhtariL/American-Sign-Language-MNIST-Gesture-Recognition-CNN/issues).
-
-Embark on an enriching coding journey! 🚀
 
